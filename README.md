@@ -17,14 +17,20 @@ Building scalable software through collaboration, clean architecture, and rapid 
 ## About
 
 **Team Winarc** is a group of developers participating in the **Odoo × Indus Hackathon**.
-Our goal is to design and deliver **scalable, efficient, and impactful solutions** using modern development practices.
+Our goal is to design and deliver **scalable, efficient, and impactful solutions** using modern technologies and strong teamwork.
+
+---
+
+## Vision
+
+Our vision is to create **practical solutions that improve productivity and digital workflows** using modern full-stack technologies.
 
 We focus on:
 
-* Clean and maintainable architecture
-* Fast and reliable development
-* Strong collaboration and teamwork
-* Delivering high-quality solutions under hackathon constraints
+* Clean architecture
+* Scalable system design
+* Rapid prototyping
+* High performance applications
 
 ---
 
@@ -33,8 +39,8 @@ We focus on:
 | Name                | Role                               | GitHub                               |
 | ------------------- | ---------------------------------- | ------------------------------------ |
 | **Hetraj Chauhan**  | Team Leader · Full Stack Developer | https://github.com/HetrajsinhChauhan |
-| **Jenil Chauhan**   | Backend Developer                  | https://github.com/jenilchauhan      |
-| **Rudra Patel**     | Frontend Developer                 | https://github.com/rudrapatel        |
+| **Jenil Chauhan**   |  Frontend Developer                | https://github.com/jenilchauhan      |
+| **Rudra Patel**     |  Backend Developer                 | https://github.com/rudrapatel        |
 | **Harsh Rampariya** | UI / UX Designer                   | https://github.com/harshrampariya    |
 
 ---
@@ -60,23 +66,54 @@ We focus on:
 
 ---
 
+## Key Features
+
+* Modular and scalable architecture
+* Clean and maintainable codebase
+* Modern full-stack development
+* Optimized performance and reliability
+
+---
+
+## Project Structure
+
+```id="structproj"
+project-root
+│
+├── frontend
+│   ├── components
+│   ├── pages
+│   └── assets
+│
+├── backend
+│   ├── api
+│   ├── services
+│   └── models
+│
+├── database
+│
+└── docs
+```
+
+---
+
 ## Getting Started
 
 Clone the repository
 
-```bash
+```bash id="cloneproj"
 git clone https://github.com/HetrajsinhChauhan/team-winarc-project.git
 ```
 
 Install dependencies
 
-```bash
+```bash id="installproj"
 npm install
 ```
 
 Run development server
 
-```bash
+```bash id="runproj"
 npm run dev
 ```
 
@@ -84,9 +121,9 @@ npm run dev
 
 ## Development Workflow
 
-Our team follows a simple Git based workflow.
+Our team follows a simple Git-based workflow.
 
-```bash
+```bash id="workflowproj"
 git add .
 git commit -m "feature implemented"
 git push origin main
@@ -94,8 +131,19 @@ git push origin main
 
 ---
 
+## Team Collaboration
+
+* Agile development process
+* Feature based branching
+* Continuous improvement
+* Clean version control
+
+---
+
 <div align="center">
 
 Built for **Odoo × Indus Hackathon**
+
+"Build Fast • Build Smart • Build Together"
 
 </div>

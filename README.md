@@ -1,110 +1,92 @@
 <div align="center">
 
-# 🚀 TEAM WINARC
+# TEAM WINARC
 
 ### Odoo × Indus Hackathon 2025
 
-⚡ Building Scalable Solutions • 🚀 Fast Development • 🧠 Smart Engineering
+Building scalable software through collaboration, clean architecture, and rapid innovation.
 
-![Hackathon](https://img.shields.io/badge/Event-Odoo%20x%20Indus%20Hackathon-blue)
+![Hackathon](https://img.shields.io/badge/Odoo%20Hackathon-2025-blue)
 ![Team](https://img.shields.io/badge/Team-Winarc-purple)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Stack](https://img.shields.io/badge/Stack-Full%20Stack-orange)
 
 </div>
 
 ---
 
-# 🧠 About Team Winarc
+## About
 
-**Team Winarc** is a team of passionate developers participating in the **Odoo × Indus Hackathon**.
-Our mission is to build **innovative, scalable, and impactful software solutions** using modern technologies.
+**Team Winarc** is a group of developers participating in the **Odoo × Indus Hackathon**.
+Our goal is to design and deliver **scalable, efficient, and impactful solutions** using modern development practices.
 
 We focus on:
 
-• Clean Architecture
-• High Performance Applications
-• Rapid Development
-• Strong Collaboration
+* Clean and maintainable architecture
+* Fast and reliable development
+* Strong collaboration and teamwork
+* Delivering high-quality solutions under hackathon constraints
 
 ---
 
-# 👨‍💻 Team Members
+## Team
 
-| Name                | Role                                  | GitHub                               |
-| ------------------- | ------------------------------------- | ------------------------------------ |
-| **Hetraj Chauhan**  | 🧠 Team Leader / Full Stack Developer | https://github.com/HetrajsinhChauhan |
-| **Jenil Chauhan**   | ⚙ Backend Developer                   | https://github.com/jenilchauhan      |
-| **Rudra Patel**     | 💻 Frontend Developer                 | https://github.com/rudrapatel        |
-| **Harsh Rampariya** | 🎨 UI/UX Designer                     | https://github.com/harshrampariya    |
-
----
-
-# 🧩 Our Development Philosophy
-
-```id="gitphilosophy"
-commit → Write clean, scalable code
-push   → Deliver features quickly
-merge  → Collaborate and improve ideas
-deploy → Build impactful products
-```
+| Name                | Role                               | GitHub                               |
+| ------------------- | ---------------------------------- | ------------------------------------ |
+| **Hetraj Chauhan**  | Team Leader · Full Stack Developer | https://github.com/HetrajsinhChauhan |
+| **Jenil Chauhan**   | Backend Developer                  | https://github.com/jenilchauhan      |
+| **Rudra Patel**     | Frontend Developer                 | https://github.com/rudrapatel        |
+| **Harsh Rampariya** | UI / UX Designer                   | https://github.com/harshrampariya    |
 
 ---
 
-# 🛠 Technology Stack
+## Technology Stack
 
-### Backend
+**Backend**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Odoo](https://img.shields.io/badge/Odoo-17-purple)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
 
-### Frontend
+**Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-yellow)
 ![React](https://img.shields.io/badge/React-19-blue)
 
-### Tools
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-VersionControl-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Repository-black)
 ![Linux](https://img.shields.io/badge/Linux-Development-yellow)
 
 ---
 
-# 🚀 Getting Started
+## Getting Started
 
-Clone repository
+Clone the repository
 
-```bash id="clone"
+```bash
 git clone https://github.com/HetrajsinhChauhan/team-winarc-project.git
-```
-
-Navigate to project
-
-```bash id="navigate"
-cd team-winarc-project
 ```
 
 Install dependencies
 
-```bash id="install"
+```bash
 npm install
 ```
 
 Run development server
 
-```bash id="run"
+```bash
 npm run dev
 ```
 
 ---
 
-# 📊 Development Workflow
+## Development Workflow
 
-Our team follows a **Git based development workflow**
+Our team follows a simple Git based workflow.
 
-```id="workflow"
+```bash
 git add .
 git commit -m "feature implemented"
 git push origin main
@@ -112,35 +94,8 @@ git push origin main
 
 ---
 
-# 📈 Team Collaboration
-
-✔ Agile development
-✔ Feature based branching
-✔ Continuous improvement
-✔ Clean version control
-
----
-
-# 📬 Contact
-
-👨‍💻 Team Leader
-Hetraj Chauhan
-
-GitHub
-https://github.com/HetrajsinhChauhan
-
-Team Members
-
-Jenil Chauhan
-Rudra Patel
-Harsh Rampariya
-
----
-
 <div align="center">
 
-### ⭐ Built for Odoo × Indus Hackathon
-
-"Ship Fast • Build Smart • Win Together"
+Built for **Odoo × Indus Hackathon**
 
 </div>

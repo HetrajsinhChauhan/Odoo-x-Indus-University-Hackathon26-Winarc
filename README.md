@@ -13,7 +13,7 @@
 
 </p>
 
-<h1 align="center">🚀 CoreStockHub</h1>
+<h1 align="center">🚀 Team Winarc</h1>
 
 <p align="center">
 

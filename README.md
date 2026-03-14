@@ -23,8 +23,91 @@ Built for **Odoo × Indus University Hackathon 2026**
 </p>
 # 🎥 Live Demo
 
+# 🧠 AI Powered Inventory System
+
+CoreStockHub is designed as a **next generation SaaS inventory platform** that integrates intelligent logic and automation.
+
+### AI Capabilities
+
+- 📊 Smart Inventory Analytics
+- 📈 Demand Prediction
+- ⚡ Automated Low Stock Alerts
+- 📦 Product Categorization
+- 📉 Inventory Optimization
+
+The system is designed to evolve into a **fully AI-driven supply chain management platform**.
 <p align="center">
 
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="750"/>
+
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HetrajsinhChauhan&show_icons=true&theme=radical"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetrajsinhChauhan&layout=compact&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HetrajsinhChauhan&theme=react-dark"/>
+
+</p>
+
+
+
+# 🌟 Features
+
+### 📦 Inventory Management
+
+- Add Products
+- Update Products
+- Delete Products
+- SKU Tracking
+- Inventory Analytics
+
+### 🏬 Warehouse Management
+
+- Multi Warehouse System
+- Location Tracking
+- Inventory Movement
+
+### 📊 Dashboard
+
+- Real Time Analytics
+- Inventory Overview
+- Pending Orders
+- Product Insights
+
+### 🔐 Security
+
+- JWT Authentication
+- Secure Login
+- Protected API Routes
+
+
+# 🛠 Tech Stack
+
+### Frontend
+
+- React.js
+- Vite
+- Tailwind CSS
+- Axios
+
+### Backend
+
+- Node.js
+- Express.js
+- REST API
+- JWT Authentication
+
+### Database
+
+- MongoDB
+- Mongoose
 
 </p>

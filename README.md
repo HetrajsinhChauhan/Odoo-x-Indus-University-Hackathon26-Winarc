@@ -111,3 +111,132 @@ The system is designed to evolve into a **fully AI-driven supply chain managemen
 - Mongoose
 
 </p>
+
+# 👨‍💻 Team Winarc
+
+## 🚀 Team Leader
+
+### Hetrajsinh Chauhan
+
+Full Stack Developer  
+SaaS Application Developer
+
+Skills
+
+- React.js
+- Node.js
+- Backend Architecture
+- SaaS Development
+
+GitHub  
+https://github.com/HetrajsinhChauhan
+
+---
+
+## 🎨 Frontend Developer
+
+### Jenil Chauhan
+
+Frontend developer creating modern web interfaces.
+
+Skills
+
+- React.js
+- Frontend Development
+- Responsive UI
+
+GitHub  
+ADD_JENIL_GITHUB_LINK
+
+---
+
+## ⚙ Backend Developer
+
+### Rudra Patel
+
+Backend developer and full stack engineer.
+
+Skills
+
+- Node.js
+- Express.js
+- Database Architecture
+
+GitHub  
+ADD_RUDRA_GITHUB_LINK
+
+---
+
+## 🎨 UI/UX Designer
+
+### Harsh Rampariya
+
+Expert UI/UX designer focused on premium interface design.
+
+Skills
+
+- UI Design
+- UX Research
+- Product Design
+
+GitHub  
+ADD_HARSH_GITHUB_LINK
+
+
+
+
+
+
+# ⚙ Installation
+
+### Clone Repository
+
+git clone https://github.com/HetrajsinhChauhan/Odoo-x-Indus-University-Hackathon26-Winarc.git
+
+---
+
+### Install Backend
+
+cd backend
+npm install
+npm start
+
+---
+
+### Install Frontend
+
+cd frontend
+npm install
+npm run dev
+
+
+
+
+# 🏆 Hackathon Information
+
+Event  
+Odoo × Indus University Hackathon 2026
+
+Team  
+Winarc
+
+Category  
+Inventory Management SaaS Platform
+
+Goal  
+Build an intelligent inventory management platform capable of managing business operations efficiently.
+
+
+
+
+# ❤️ Built by Team Winarc
+
+<p align="center">
+
+Made with ❤️ by **Team Winarc**
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>

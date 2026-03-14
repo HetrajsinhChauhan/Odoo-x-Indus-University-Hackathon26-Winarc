@@ -195,7 +195,7 @@ const login = asyncHandler(async (req, res) => {
   const isPassValid = await adminLogin.isPasswordCorrect(password);
 
   if(!isPassValid){
-    throw new ApiError(401, "Invalid email or password")
+    throw new ApiError(401, "Invalid password")
   }
 
   const {accessToken, refreshToken} = await generateAccessAndRefreshTokens(adminLogin._id)

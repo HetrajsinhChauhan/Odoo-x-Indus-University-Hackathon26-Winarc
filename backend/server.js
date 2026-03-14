@@ -2,7 +2,7 @@ import dotenv from "dotenv";
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import connectDB from "./src/config/db.js";
+import connectDB from "./config/db.js";
 import { app } from "./app.js";
 import http from "http";
 

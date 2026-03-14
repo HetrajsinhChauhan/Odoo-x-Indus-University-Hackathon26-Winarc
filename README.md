@@ -39,9 +39,9 @@ We focus on:
 | Name                | Role                               | GitHub                               |
 | ------------------- | ---------------------------------- | ------------------------------------ |
 | **Hetraj Chauhan**  | Team Leader · Full Stack Developer | https://github.com/HetrajsinhChauhan |
-| **Jenil Chauhan**   |  Frontend Developer                | https://github.com/jenilchauhan      |
-| **Rudra Patel**     |  Backend Developer                 | https://github.com/rudrapatel        |
-| **Harsh Rampariya** | UI / UX Designer                   | https://github.com/harshrampariya    |
+| **Jenil Chauhan**   |  Frontend Developer                | https://github.com/jenil8800         |
+| **Rudra Patel**     |  Backend Developer                 | https://github.com/Rudra3p           |
+| **Harsh Rampariya** | UI / UX Designer                   | https://github.com/realHarshCodes    |
 
 ---
 
